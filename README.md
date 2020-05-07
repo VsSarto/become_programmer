@@ -13,7 +13,17 @@ My courses and learning checklist:
 
 - [x]  [Git - version control](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git)
 - [x]  [Basic Terminal usage](https://www.notion.so/vssartori/Comandos-Basicos-prompt-16c92043556446ddbe8c4c680f346b22)
-- [ ]  [data structures & algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+- [data structures & algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+    - [ ]  [Arrays](https://leetcode.com/explore/learn/card/array-and-string/)
+    - [ ]  [Linked list](https://leetcode.com/explore/learn/card/linked-list/)
+    - [ ]  [binary tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+    - [ ]  [Queue & stack](https://leetcode.com/explore/learn/card/queue-stack/)
+    - [ ]  [Recursion I](https://leetcode.com/explore/learn/card/recursion-i/)
+    - [ ]  [Recursion II](https://leetcode.com/explore/learn/card/recursion-ii/)
+    - [ ]  [Hash table](https://leetcode.com/explore/learn/card/hash-table/)
+    - [ ]  [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
+    - [ ]  [Machine learning 101](https://leetcode.com/explore/learn/card/machine-learning-101/)
+    - [ ]  [Decision tree](https://leetcode.com/explore/learn/card/decision-tree/)
 - [ ]  github
 - [ ]  licenses
 - [ ]  semantic versioning
