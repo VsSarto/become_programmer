@@ -21,14 +21,8 @@ My courses and learning checklist:
 - [ ]  HTTP/HTTPS and APIS
 - [ ]  Design Patterns
 - [ ]  Character Encodings
-- [ ]  DSA Python
-https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
-- [x]  Scrimba 
-https://scrimba.com/p/pNpZMAB/c9Bv3wc8
+- [ ]  [DSA Python](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+- [x]  [Scrimba](https://scrimba.com/p/pNpZMAB/c9Bv3wc8)
 - [ ]  [Freecodecamp](https://www.freecodecamp.org/learn/#_=_)
-- [ ]  [https://roadmap.sh/guides/what-is-internet](https://roadmap.sh/guides/what-is-internet)
 - [ ]  [CS50's Introduction to computer science](https://cs50.harvard.edu/college/2020/spring/weeks/0/)
 - [ ]  [SQL Básico ao Avançado 2019](https://www.youtube.com/watch?v=FNV7_9QsCok&list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv)
-
-
-
