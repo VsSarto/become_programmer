@@ -41,7 +41,7 @@ else:
     print("Operação matematica não foi definida")
 
 print()
-
+ 
       
 print('*'*40 )        
         

@@ -10,29 +10,29 @@ I based myself on learning the basics described in this roadmap, before making t
 
 
 My courses and learning checklist: 
+- Basic
+    - [x]  [Git - version control](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git)
+    - [x]  [Basic Terminal usage](https://www.notion.so/vssartori/Comandos-Basicos-prompt-16c92043556446ddbe8c4c680f346b22)
+    - [ ]  github
+    - [ ]  licenses
+    - [ ]  semantic versioning
+    - [ ]  SSH
+    - [ ]  HTTP/HTTPS and APIS
+    - [ ]  Design Patterns
+    - [ ]  Character Encodings
+- Computer Science Knowledge
+    - [ ]  State Machines
+    - [ ]  [Formal Language Theory](https://en.wikipedia.org/wiki/Formal_language)
+    - [ ]  [Computability theory](https://en.wikipedia.org/wiki/Computability_theory)
+    - [ ]  [Finite State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+    - [ ]  Algorithms
+    - [ ]  [Big O Notation](https://en.wikipedia.org/wiki/Big_O_notation)
+    - [ ]  Databases
+    - [ ]  [SQL](https://en.wikipedia.org/wiki/SQL)
 
-- [x]  [Git - version control](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git)
-- [x]  [Basic Terminal usage](https://www.notion.so/vssartori/Comandos-Basicos-prompt-16c92043556446ddbe8c4c680f346b22)
-- [data structures & algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-    - [ ]  [Arrays](https://leetcode.com/explore/learn/card/array-and-string/)
-    - [ ]  [Linked list](https://leetcode.com/explore/learn/card/linked-list/)
-    - [ ]  [binary tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
-    - [ ]  [Queue & stack](https://leetcode.com/explore/learn/card/queue-stack/)
-    - [ ]  [Recursion I](https://leetcode.com/explore/learn/card/recursion-i/)
-    - [ ]  [Recursion II](https://leetcode.com/explore/learn/card/recursion-ii/)
-    - [ ]  [Hash table](https://leetcode.com/explore/learn/card/hash-table/)
-    - [ ]  [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
-    - [ ]  [Machine learning 101](https://leetcode.com/explore/learn/card/machine-learning-101/)
-    - [ ]  [Decision tree](https://leetcode.com/explore/learn/card/decision-tree/)
-- [ ]  github
-- [ ]  licenses
-- [ ]  semantic versioning
-- [ ]  SSH
-- [ ]  HTTP/HTTPS and APIS
-- [ ]  Design Patterns
-- [ ]  Character Encodings
-- [ ]  [DSA Python](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
-- [x]  [Scrimba](https://scrimba.com/p/pNpZMAB/c9Bv3wc8)
-- [ ]  [Freecodecamp](https://www.freecodecamp.org/learn/#_=_)
-- [ ]  [CS50's Introduction to computer science](https://cs50.harvard.edu/college/2020/spring/weeks/0/)
-- [ ]  [SQL Básico ao Avançado 2019](https://www.youtube.com/watch?v=FNV7_9QsCok&list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv)
+- Courses
+    - [ ]  [DSA Python](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+    - [x]  [Scrimba](https://scrimba.com/p/pNpZMAB/c9Bv3wc8)
+    - [ ]  [Freecodecamp](https://www.freecodecamp.org/learn/#_=_)
+    - [ ]  [CS50's Introduction to computer science](https://cs50.harvard.edu/college/2020/spring/weeks/0/)
+    - [ ]  [SQL Básico ao Avançado 2019](https://www.youtube.com/watch?v=FNV7_9QsCok&list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv)
