@@ -13,10 +13,10 @@ My courses and learning checklist:
 - Basic
     - [x]  [Git - version control](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git)
     - [x]  [Basic Terminal usage](https://www.notion.so/vssartori/Comandos-Basicos-prompt-16c92043556446ddbe8c4c680f346b22)
-    - [ ]  github
-    - [ ]  licenses
-    - [ ]  semantic versioning
-    - [ ]  SSH
+    - [x]  github
+    - [x]  licenses
+    - [x]  semantic versioning
+    - [x]  SSH
     - [ ]  HTTP/HTTPS and APIS
     - [ ]  Design Patterns
     - [ ]  Character Encodings
