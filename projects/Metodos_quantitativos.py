@@ -26,8 +26,8 @@ OBS3: numeros como 02 05 04 07 causara erro no input. #revisar
 ==================      ==================================================
     Funções          				  Descrição
 ==================      ==================================================
-média 					Média aritmética.  
-média geométrica 	    Média geométrica de dados.
+1- média 					Média aritmética.  
+2- média geométrica 	    Média geométrica de dados.
 média harmônica     	Média harmônica dos dados.
 mediana             	Mediana (valor médio) dos dados.
 menor valor         	Menor valor dos dados.
@@ -45,45 +45,54 @@ A.interquartil          Grau de espalhamento de dados em torno da medida de cent
 Em breve mais funções ------- EM ATUALIZAÇÃO
 
 check list
-[x] fazer uma lista a partir de inputs
-[x] remover strings da lista, e aplicar mensagem de erro caso o usuario nao aplique valores numericos
-[x] input para executar todas as operações 
-[ ] gerar graficos (se houver, de cada operação)
-[ ] terminar de colocar as operações
-[ ] tentar separar as funçoes para que eu possa mexer em cada uma separado
-   para caso haja erro como as de valores negativos posso revisar separadamente.
-
-[ ] como transformar esse cod aplicavel para qualquer um exe. 
-[ ] colocar em um site para baixar e a pessoa executar 
-[ ] criar um arquivo readme descrevendo todo o processo (pode ser esse no final)
-[ ] traduzir todo projeto para o ingles
-
-
-
-[] citar colaborações de pessoas e pypi projetos
+- [x]  Fazer uma lista a partir de inputs
+- [x]  Remover strings da lista, e aplicar mensagem de erro caso o usuario nao aplique valores numericos
+- [ ]  Input para executar todas as operações
+- [ ]  Gerar gráficos para cada operação  (se houver)
+- [x]  Terminar de colocar as operações
+- [ ]  Separar as funções por blocos para que eu possa ser editada separadamente
+- [ ]  Revisar erros com valores negativos
+- [ ]  Revisar erros como o uso de 0 a esquerda sem ' . '
+- [ ]  Transformar em um executavel
+- [ ]  Colocar em um site para baixar o arquivo
+- [ ]  Colocar a licensa
+- [ ]  Transcrever em inglês
 
 
 Colaboradores:
 
--> JeanExtreme002
+- [x]  Fazer uma lista a partir de inputs
+- [x]  Remover strings da lista, e aplicar mensagem de erro caso o usuario nao aplique valores numericos
+- [ ]  Input para executar todas as operações
+- [ ]  Gerar gráficos para cada operação  (se houver)
+- [x]  Terminar de colocar as operações
+- [ ]  Separar as funções por blocos para que eu possa ser editada separadamente
+- [ ]  Revisar erros com valores negativos
+- [ ]  Revisar erros como o uso de 0 a esquerda sem ' . '
+- [ ]  Transformar em um executavel
+- [ ]  Colocar em um site para baixar o arquivo
+- [ ]  Colocar a licensa
+- [ ]  Transcrever em inglês
 
- https://github.com/JeanExtreme002 
+JeanExtreme002 
 
--> Ronaldo Vasques
+- [GitHub](https://github.com/JeanExtreme002)
+- [Stackoverflow](https://pt.stackoverflow.com/users/157404/jeanextreme002)
 
-https://pt.stackoverflow.com/users/137387/augusto-vasques
-https://github.com/RonaldoVasques
+Ronaldo Vasques
 
-pypi usadas:
+- [GITHUB](https://github.com/RonaldoVasques)
+- [Stackoverflow](https://pt.stackoverflow.com/users/137387/augusto-vasques)
 
--> https://pypi.org/project/statistics/
+Pypi usadas:
 
----
+- [Statistics](https://pypi.org/project/statistics/)
+- [Maths](https://pypi.org/project/maths/)
 License & copyrigth
 
 © Vinicius de Sousa Sartori	
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the MIT License
 
 
  
