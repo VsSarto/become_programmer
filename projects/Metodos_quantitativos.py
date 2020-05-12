@@ -78,6 +78,12 @@ pypi usadas:
 
 -> https://pypi.org/project/statistics/
 
+---
+License & copyrigth
+
+© Vinicius de Sousa Sartori	
+
+Licensed under the [MIT License](LICENSE)
 
 
  
