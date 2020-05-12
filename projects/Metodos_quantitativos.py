@@ -92,7 +92,11 @@ License & copyrigth
 
 © Vinicius de Sousa Sartori	
 
+<<<<<<< HEAD
 Licensed under the MIT License
+=======
+Licensed under the [MIT License](https://github.com/VsSarto/become_programmer/blob/master/projects/LICENSE)
+>>>>>>> 9ddf80404a89bed7595538001c5ed26f65480294
 
 
  
