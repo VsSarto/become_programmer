@@ -1,4 +1,8 @@
 
+
+EM MANUNTENÇÃO
+
+
 Projeto: Metodos_quantitativos
 Aluno: Vinicius de sousa Sartori
 
@@ -15,7 +19,9 @@ OBS: para numeros decimais use '.'  e nao ',' . Caso contrario uma mensagem
 de erro será exibida na tela ate que o usuario atribua o valor corretamente
 ou finalize a inserção de dados digitando a tecla 'f'.   
 
-OBS2: Se digitar apenas 1 o programa retornará uma mensagem de erro. 
+OBS2: Se digitar apenas 1 o programa retornará uma mensagem de erro. #revisar
+
+OBS3: numeros como 02 05 04 07 causara erro no input. #revisar
 
 ==================      ==================================================
     Funções          				  Descrição
@@ -36,28 +42,37 @@ desvio padrão			Medida de dispersão em torno da média.
 A.interquartil          Grau de espalhamento de dados em torno da medida de centralidade.
 ==================      ==================================================
 
-
+Em breve mais funções ------- EM ATUALIZAÇÃO
 
 check list
 [x] fazer uma lista a partir de inputs
 [x] remover strings da lista, e aplicar mensagem de erro caso o usuario nao aplique valores numericos
 [x] input para executar todas as operações 
-[] gerar graficos (se houver, de cada operação)
-[] terminar de colocar as operações
-[] tentar separar as funçoes com def para que eu posso mexer em cada uma separado
-   para caso haja erro como a de valores negativos posso mexer individualmente
+[ ] gerar graficos (se houver, de cada operação)
+[ ] terminar de colocar as operações
+[ ] tentar separar as funçoes para que eu possa mexer em cada uma separado
+   para caso haja erro como as de valores negativos posso revisar separadamente.
 
-
-[] como transformar esse cod aplicavel para qualquer um exe. 
-[] colocar em um site para baixar e a pessoa executar 
-[] 
+[ ] como transformar esse cod aplicavel para qualquer um exe. 
+[ ] colocar em um site para baixar e a pessoa executar 
+[ ] criar um arquivo readme descrevendo todo o processo (pode ser esse no final)
+[ ] traduzir todo projeto para o ingles
 
 
 
 [] citar colaborações de pessoas e pypi projetos
-pessoas:
 
--> https://github.com/JeanExtreme002 
+
+Colaboradores:
+
+-> JeanExtreme002
+
+ https://github.com/JeanExtreme002 
+
+-> Ronaldo Vasques
+
+https://pt.stackoverflow.com/users/137387/augusto-vasques
+https://github.com/RonaldoVasques
 
 pypi usadas:
 
@@ -65,5 +80,4 @@ pypi usadas:
 
 
 
-[] criar um arquivo readme descrevendo todo o processo (pode ser esse no final)
-[] traduzir todo projeto para o ingles 
+ 
