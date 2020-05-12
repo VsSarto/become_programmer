@@ -1,7 +1,3 @@
-
-
-EM MANUNTENÇÃO
-
 Projeto: Metodos_quantitativos
 
 Modo de uso: Atribua os valores a serem analisados e calculados, para finalizar a 

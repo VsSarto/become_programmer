@@ -1,9 +1,7 @@
 EM MANUNTENÇÃO
 
 Projeto: Metodos_quantitativos
-Aluno: Vinicius de sousa Sartori
-
-Este módulo fornece funções para analisar e calcular dados estatisticos.
+Autor: Vinicius de sousa Sartori
 
 Projeto usado para resolução de exercicios e analise de dados,
 referente a disciplica de Metodos_quantitativos do curso:
@@ -12,20 +10,16 @@ Gestão da Produção industrial - IFRJ.
 ==================================================
 
 
-Check list
+Check list do processo. 
 
 - [x]  Fazer uma lista a partir de inputs
-- [x]  Remover strings da lista, e aplicar mensagem de erro 
+- [x]  Substituir formato de strings da lista por floats e aplicar mensagem de erro 
 - [x]  Terminar de colocar as operações
 - [x]  Input para executar todas as operações
-- [ ]  Gerar gráficos para cada operação  (se houver)
 - [x]  Separar as funções por blocos para serem editada separadamente
 - [x]  Revisar erros com valores negativos
-- [ ]  Revisar erros como o uso de 0 a esquerda sem "."
-- [ ]  Transformar em um executavel
 - [x]  Colocar a license
-- [ ]  Transcrever em inglês
-- [ ]  Upar no diretorio, para uso publico.
+- [x]  Uso publico.
 
 ==================================================
 Colaboradores:
