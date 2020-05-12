@@ -83,7 +83,7 @@ License & copyrigth
 
 © Vinicius de Sousa Sartori	
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [MIT License](https://github.com/VsSarto/become_programmer/blob/master/projects/LICENSE)
 
 
  
