@@ -1,7 +1,3 @@
-
-EM CONSTRUÇÃO
-
-
 A criação desse projeto não teve o intuito de gerar apenas beneficios pessoais ao seu criador, mas também para a comunidade acadêmica do Instituto Federal do Rio de Janeiro - IFRJ.
 
 

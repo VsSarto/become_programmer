@@ -1,4 +1,3 @@
-EM MANUNTENÇÃO
 
 Projeto: Metodos_quantitativos
 Autor: Vinicius de sousa Sartori
