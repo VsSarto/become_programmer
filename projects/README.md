@@ -3,7 +3,7 @@ EM MANUNTENÇÃO
 Projeto: Metodos_quantitativos
 Aluno: Vinicius de sousa Sartori
 
-Este módulo fornece funções para analisar e calcular dados.
+Este módulo fornece funções para analisar e calcular dados estatisticos.
 
 Projeto usado para resolução de exercicios e analise de dados,
 referente a disciplica de Metodos_quantitativos do curso:
