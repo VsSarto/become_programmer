@@ -10,18 +10,20 @@ referente a disciplica de Metodos_quantitativos do curso:
 Gestão da Produção industrial - IFRJ.
 
 ==================================================
+
+
 Check list
 
 - [x]  Fazer uma lista a partir de inputs
 - [x]  Remover strings da lista, e aplicar mensagem de erro 
 - [x]  Terminar de colocar as operações
-- [ ]  Input para executar todas as operações
+- [x]  Input para executar todas as operações
 - [ ]  Gerar gráficos para cada operação  (se houver)
-- [ ]  Separar as funções por blocos para serem editada separadamente
-- [ ]  Revisar erros com valores negativos
+- [x]  Separar as funções por blocos para serem editada separadamente
+- [x]  Revisar erros com valores negativos
 - [ ]  Revisar erros como o uso de 0 a esquerda sem "."
 - [ ]  Transformar em um executavel
-- [ ]  Colocar a licensa
+- [x]  Colocar a license
 - [ ]  Transcrever em inglês
 - [ ]  Upar no diretorio, para uso publico.
 
