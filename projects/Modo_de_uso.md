@@ -11,9 +11,9 @@ OBS2: Se digitar apenas 1 numero o programa retornará uma mensagem de erro. #re
 
 OBS3: numeros como 02 05 04 07 causara erro no input, caso queira numero decimal use '0.7'. #revisar
 
-==================      ==================================================
+     
     Funções          				  Descrição
-==================      ==================================================
+      
 1- 	rol						Organização dos dados por ordem de valor crescente 
 2-  média 					Média aritmética.  
 3-  média geométrica 	    Média geométrica de dados.
@@ -32,7 +32,7 @@ OBS3: numeros como 02 05 04 07 causara erro no input, caso queira numero decimal
 16- variância A				Variância (Amostral)
 17- dev. padrão P           Medida de dispersão~em torno da medida. (Populacional)
 18- variância P             Variância (Populacional)        
-==================      ==================================================
+  
 
 
 
