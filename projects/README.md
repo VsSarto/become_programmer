@@ -6,8 +6,6 @@ Projeto usado para resolução de exercicios e analise de dados,
 referente a disciplica de Metodos_quantitativos do curso:
 Gestão da Produção industrial - IFRJ.
 
-==================================================
-
 
 Check list do processo. 
 
@@ -20,7 +18,7 @@ Check list do processo.
 - [x]  Colocar a license
 - [x]  Uso publico.
 
-==================================================
+
 Colaboradores:
 
 JeanExtreme002 
