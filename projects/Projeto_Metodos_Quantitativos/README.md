@@ -1,3 +1,5 @@
+EM CONSTRUÇÃO
+
 
 Projeto: Metodos_quantitativos
 Autor: Vinicius de sousa Sartori
@@ -9,6 +11,8 @@ Gestão da Produção industrial - IFRJ.
 
 Check list do processo. 
 
+FASE 1
+
 - [x]  Fazer uma lista a partir de inputs
 - [x]  Substituir formato de strings da lista por floats e aplicar mensagem de erro 
 - [x]  Terminar de colocar as operações
@@ -17,6 +21,21 @@ Check list do processo.
 - [x]  Revisar erros com valores negativos
 - [x]  Colocar a license
 - [x]  Uso publico.
+
+FASE 2
+
+- []  Revisar o codigo
+- []  Usar novas ferramentas
+- []  Analisar dados
+- []  Manipular valores
+
+  
+
+
+
+
+
+
 
 
 Colaboradores:

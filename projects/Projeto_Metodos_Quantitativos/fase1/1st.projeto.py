@@ -1,14 +1,6 @@
 from ast import literal_eval;  # Para avaliar o literal
 from re import compile;  # Para compilar a expressão regular
 import statistics
-import math
-from fractions import Fraction
-from decimal import Decimal
-from itertools import groupby
-from bisect import bisect_left, bisect_right
-from math import hypot, sqrt, fabs, exp, erf, tau, log, fsum
-from operator import itemgetter
-from collections import Counter
 
 number_list = []  # Lista de resultados
 
@@ -166,3 +158,5 @@ operation_18.varian_p()
 
 
 print('_'*75)
+
+
