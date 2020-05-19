@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <h1>Seu texto tem um total de : {{ count }} palavras </h1>
+</head>
+
+<a href="{%url 'home'%} ">Deseja contar novamente?</a>
+
+<body>
+<h1> Seu texto:</h1>
+{{fulltext}}
+
+
+<h1> Contagem de palavras: </h1>
+
+{% for word, counttotal in sortedwords %}
+
+{{word}}
+<br />
+{{counttotal}}
+<br />
+
+{% endfor %}
+
+
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>  </title>
+</head>
+
+<body><a href=" {% url 'about' %}"><input type="submit" value="About"/></a>
+
+<form action="{% url 'count' %}">
+    <h1>Contador de palavras</h1>
+
+  <textarea cols="40" rows="5" name="fulltext"></textarea>
+  <br />
+  <input type="submit" value="Count!"/>
+
+
+</form>
+
+
+</body>
+</html>
+
+
+
