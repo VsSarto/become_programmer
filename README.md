@@ -6,13 +6,11 @@ Road Map - web devoloper 2020
 https://github.com/kamranahmedse/developer-roadmap
 
 
-I based myself on learning the basics described in this roadmap, before making the decision in which I will specialize.
+I based on learning the basics described in this roadmap, before making the decision in which I will specialize.
 
 ![](image/photo.jpg)
 
-My courses and learning checklist: 
-
-# Brain RoadMap
+# Courses and learning checklist: 
 
 - Learning path
     - [x]  [Git - version control](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git)
