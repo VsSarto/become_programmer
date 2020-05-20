@@ -8,6 +8,7 @@ https://github.com/kamranahmedse/developer-roadmap
 
 I based myself on learning the basics described in this roadmap, before making the decision in which I will specialize.
 
+![](image/photo.jpg)
 
 My courses and learning checklist: 
 
