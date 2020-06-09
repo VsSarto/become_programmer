@@ -37,7 +37,7 @@ I based on learning the basics described in this roadmap, before making the deci
     - [ ]  [Freecodecamp](https://www.freecodecamp.org/learn/#_=_)
     - [ ]  [CS50's Introduction to computer science](https://cs50.harvard.edu/college/2020/spring/weeks/0/)
     - [ ]  [Introduction to Cloud identity](https://www.coursera.org/learn/cloud-identity/home/welcome)
-    - [ ]  [Resti API](https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI)
-    - [ ]  [Django 3 - Full stack Website with python](https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/)
+    - [ ]  [Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI)
+    - [x]  [Django 3 - Full stack Website with python](https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/)
     
     
